@@ -64,5 +64,89 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-CeQur Simplicity is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://forgeglobal.com/cequr-simplicity_stock/
+CeQur Simplicity provides a wearable mealtime insulin patch designed to simplify insulin delivery for people with diabetes. The patch offers discreet, painless dosing, reduces the need for multiple injections, and aims to improve glucose control and adherence. The company’s website offers product details, getting started guides, coverage information, FAQs, and resources for both patients and healthcare professionals.
+
+**Areas:** Healthcare · Diabetes · Wearables · Insulin Delivery · Medical Devices
+
+## CeQur Simplicity on APIs.io
+
+Everything profiled for CeQur Simplicity is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cequr-simplicity/](https://apis.io/providers/cequr-simplicity/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [CeQur Simplicity API](https://apis.io/apis/cequr-simplicity/cequr-simplicity-api/) — API documentation not publicly machine‑readable; only HTML guides are available.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Cequr Simplicity Domain Security](https://apis.io/security/cequr-simplicity/cequr-simplicity-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://myceqursimplicity.com)
+- [Documentation](https://myceqursimplicity.com/getting-started/)
+- [Getting started](https://myceqursimplicity.com/getting-started/)
+- [Pricing](https://myceqursimplicity.com/pricedup-casino-no-deposit-bonus-opportunities-in-the-uk/)
+- [Support](https://myceqursimplicity.com/contact-us/)
+- [Blog](https://myceqursimplicity.com/news-media/)
+- [Privacy policy](https://myceqursimplicity.com/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 15.2** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.9 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 28.6 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 7.8** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/cequr-simplicity/](https://apis.io/providers/cequr-simplicity/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for CeQur Simplicity: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cequr-simplicity/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
